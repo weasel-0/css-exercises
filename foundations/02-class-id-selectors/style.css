@@ -1,0 +1,19 @@
+.odd {
+  background-color: lightpink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#no-2 {
+  font-size: 36px;
+  color: blue;
+}
+
+#no-4 {
+  font-size: 24px;
+  background-color: lightgreen;
+  font-weight: bold;
+}
